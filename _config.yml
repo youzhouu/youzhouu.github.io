@@ -35,14 +35,14 @@ note_categories:
     title: Evans PDE Notes
     description: Reading notes on partial differential equations, following Evans.
   - slug: analysis
-    title: Fourier Analyis
-    description: Basics of Fourier Analyis.
+    title: Fourier Analysis
+    description: Basics of Fourier Analysis.
   - slug: conservation-laws
     title: Conservation laws
     description: An introduction to hyperbolic conservation laws and related topics.
-  - slug: pseudo-differential operator
-    title: Pseudo-differential Operator
-    description: Notes on the study of Pseudo-differential Operator.
+  - slug: pseudo-differential operators
+    title: Pseudo-differential Operators
+    description: Reading notes on Pseudo-differential Operators.
 
 markdown: kramdown
 kramdown:
