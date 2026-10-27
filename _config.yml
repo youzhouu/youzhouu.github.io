@@ -32,17 +32,17 @@ navigation:
 
 note_categories:
   - slug: evans-pde
-    title: Evans PDE
+    title: Evans PDE Notes
     description: Reading notes on partial differential equations, following Evans.
   - slug: analysis
-    title: Analysis
-    description: Notes on real analysis and related foundations.
+    title: Fourier Analyis
+    description: Basics of Fourier Analyis.
   - slug: conservation-laws
     title: Conservation laws
-    description: Notes on hyperbolic conservation laws and related questions.
-  - slug: wave-stability
-    title: Stability of waves
-    description: Notes on waves and their stability in partial differential equations.
+    description: An introduction to hyperbolic conservation laws and related topics.
+  - slug: pseudo-differential operator
+    title: Pseudo-differential Operator
+    description: Notes on the study of Pseudo-differential Operator.
 
 markdown: kramdown
 kramdown:
